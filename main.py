@@ -3,7 +3,7 @@ import random
 import smtplib
 
 PASSWORD = "your password"
-MY_EMAIL = "xxxxx@gmail.com"
+MY_EMAIL = "xxxxvvxx@gmail.com"
 
 boys = []
 girls = []
